@@ -3,7 +3,7 @@ Basicamente é um exercicios de perguntas e respostas sobre conceitos aonde no f
 
 Alunos envolvidos
 
-# Gabriel Araujo
+# Gabriel
 # Anderson Massao
 # Guilherme Ribeiro
 # Silas Renner
